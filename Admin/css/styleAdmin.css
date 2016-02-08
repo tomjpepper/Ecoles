@@ -1,0 +1,51 @@
+body{
+	color : #69644e;
+	background-color: #262016;
+	margin : 0 auto;
+	width :900px;
+}
+
+#container{
+background-color: #eae5ce;
+height: 500px;
+
+}
+
+
+h1{
+	font-size:2em;
+	text-align : center;
+	text-transform: uppercase;
+
+}
+
+
+form{
+	width :800px;
+	margin : 0 auto;
+	position:relative;
+}
+
+input[type="text"],select{
+	position :absolute;
+	left : 150px;
+	margin-left: 10px;
+}
+
+select{
+	width:100px;
+}
+
+
+h2{
+	font-size: 30px;
+	padding-bottom: 20px;
+
+
+}
+
+li{
+	list-style: none;
+	margin:20px;
+	
+}
